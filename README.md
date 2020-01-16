@@ -9,5 +9,5 @@ vue create --preset vue-styleguidist/preset my-project
 ```
 
 <div align="center" markdown="1" style="text-align:center">
-<img alt="Getting started instructions for Vue command line interface and starting styleguidist" src="https://raw.githubusercontent.com/vue-styleguidist/preset/dev/assets/getting-started.png"/>
+<img alt="Getting started instructions for Vue command line interface and starting styleguidist" src="https://raw.githubusercontent.com/vue-styleguidist/preset/master/assets/getting-started.png"/>
 </div>
